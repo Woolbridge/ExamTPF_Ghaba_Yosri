@@ -9,6 +9,7 @@ def somme(L) :
 my_list=[1,5,7]
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 som=somme(my_list)
 print('la somme est =',som)
 =======
@@ -18,12 +19,18 @@ print("la somme est :",sum(my_list))
 =======
 =======
 >>>>>>> feature_list
+=======
+>>>>>>> feature_list
 if my_list :
 	print("la somme est :",sum(my_list))
 	print("le max est :",max(my_list))
 	print("le min est :",min(my_list))
 else :
 <<<<<<< HEAD
+<<<<<<< HEAD
+	print('liste vide')
+>>>>>>> feature_list
+=======
 	print('liste vide')
 >>>>>>> feature_list
 =======
