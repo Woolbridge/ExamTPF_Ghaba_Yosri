@@ -4,10 +4,5 @@ if my_list :
 	print("le max est :",max(my_list))
 	print("le min est :",min(my_list))
 else :
-
-	print('liste vide')
-
-	print('liste vide')
-
 	print('liste vide')
 
